@@ -4,6 +4,10 @@ Send message from Command Line or from a Web App for free using easy to use API.
 
 Example for using the Library
 
+First create Username and Password on URL
+
+http://site24.way2sms.com/content/index.html
+
 <?php
 require_once("way2sms.php");
 
